@@ -1,2 +1,2 @@
 # JavaScript_Projects
- Projects from javascript course
+ This is a repository for my JavaScript projects from my AOLCC JavaScript course.
