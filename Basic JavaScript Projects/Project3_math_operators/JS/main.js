@@ -59,3 +59,4 @@ window.alert(Math.random() * 100);
 
 //Math objects
 document.getElementById("math9").innerHTML = Math.PI;
+
