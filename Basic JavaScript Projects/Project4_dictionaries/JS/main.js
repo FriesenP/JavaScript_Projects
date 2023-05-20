@@ -12,3 +12,4 @@ function my_dictionary() {
     delete Animal.Sound;
     document.getElementById("Dictionary").innerHTML = Animal.Sound;
 }
+
